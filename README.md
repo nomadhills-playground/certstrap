@@ -3,6 +3,10 @@
 [![CI](https://github.com/square/certstrap/actions/workflows/go.yml/badge.svg)](https://github.com/square/certstrap/actions/workflows/go.yml)
 [![license](http://img.shields.io/badge/license-apache_2.0-red.svg?style=flat)](https://raw.githubusercontent.com/square/certstrap/master/LICENSE)
 
+
+> Check this out
+> https://dev.to/danvixent/how-to-setup-postgresql-with-ssl-inside-a-docker-container-5f3
+
 A simple certificate manager written in Go, to bootstrap your own certificate authority and public key infrastructure.  Adapted from etcd-ca.
 
 certstrap is a very convenient app if you don't feel like dealing with openssl, its myriad of options or config files.
